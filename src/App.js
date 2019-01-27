@@ -80,6 +80,7 @@ class App extends React.Component{
                     
                 </div>
             </div>
+            <footer> Made with &hearts; by Jinx</footer>
         </div>
     </div>
 </div>
