@@ -198,3 +198,10 @@ button:active {
 .citySuggestion::-webkit-scrollbar-thumb:hover {
     background: #555; 
 }
+footer{
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+footer>span{
+  color: red;
+}
