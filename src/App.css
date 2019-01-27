@@ -100,11 +100,12 @@ button:active {
   outline: none;
 }
 #refresh{
-    display: block;
-    position: absolute;
-    top: 23.6%;
-    right: 10.5%;
-    border-radius: 
+    /*display: inlineblock;*/
+    position: static;
+    /*top: 23.6%;*/
+    /*right: 10.5%;*/
+    /*border-radius: */
+    width: 91%;
     }
 .weather__info {
   width: 60%;

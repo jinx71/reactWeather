@@ -75,7 +75,7 @@ class App extends React.Component{
 	                    error = {this.state.error}
                         
 	                	/>
-                        <button id="refresh" onClick={this.handleClick}>&#8634;</button>
+                        <button id="refresh" onClick={this.handleClick}>Refresh</button>
 	            	</div>
                     
                 </div>
